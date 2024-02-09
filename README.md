@@ -10,5 +10,5 @@ By utilizing the gaze estimation technique, the system can accurately determine 
 
 This approach allows ALS patients to interact with the system intuitively, selecting menu options simply with their gaze. This method not only facilitates communication for individuals with limited mobility but also provides a form of interaction that preserves the user's autonomy, enabling them to express themselves and perform tasks independently, despite the challenges posed by the condition.
 
-[![image](https://github.com/cabelo/visioncom/assets/675645/1645fc3f-37f1-4488-92b5-f8ef13498245)](https://www.youtube.com/watch?v=JbbObeGXfm4)
+[![image](https://github.com/cabelo/visioncom/assets/675645/8049ba49-6699-4fbb-b638-29a747fe7fda)](https://www.youtube.com/watch?v=JbbObeGXfm4)
 
