@@ -1,5 +1,7 @@
 # Visioncom
 
+## Under development.
+
 The assisted communication system employs advanced computer vision technologies, using the OpenCV and OpenVINO libraries, to provide an interactive solution for patients with Amyotrophic Lateral Sclerosis (ALS).
 
 Through OpenCV, an open-source library designed for real-time computer vision applications, the system captures and processes live video images, enabling the identification and tracking of the user's eye movements. 
